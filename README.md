@@ -21,6 +21,11 @@ $ ~/.tmux/plugins/tpm/scripts/install_plugins.sh
 ```
 
 
+## Self Promotion
+
+Like this project? Follow the repository on [GitHub](https://github.com/posquit0/tmux-conf). And if you're feeling especially charitable, follow [posquit0](https://posquit0.com) on [GitHub](https://github.com/posquit0).
+
+
 ## Contact
 
 If you have any questions, feel free to join me at [`#posquit0` on Freenode](irc://irc.freenode.net/posquit0) and ask away. Click [here](https://kiwiirc.com/client/irc.freenode.net/posquit0) to connect.
@@ -30,4 +35,4 @@ If you have any questions, feel free to join me at [`#posquit0` on Freenode](irc
 
 Provided under the terms of the [MIT License](https://github.com/posquit0/tmux-conf/blob/master/LICENSE).
 
-Copyright © 2017, [Byungjin Park](http://www.posquit0.com).
+Copyright © 2014-2019, [Byungjin Park](http://www.posquit0.com).
